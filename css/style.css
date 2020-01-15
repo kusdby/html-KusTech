@@ -1,0 +1,56 @@
+body {
+    height: 100%;
+    background-color: #343A40;
+    color: #fff;
+    }
+	
+p {
+    color: #000;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+    
+h4{
+      color: #000;
+}
+
+h1{
+    color: #fff;
+    font-family: header;
+}
+
+h5{
+    color: #fff;
+    font-family: tiga;
+}
+
+.footerku{
+    width: 100%;
+    height: 50px;
+    padding-left: 10px;
+    line-height: 50px;
+    background: #343A40;
+    color: #9A9DA0;
+    position: fixed;
+    bottom: 0px;
+    }
+
+.konten{
+    color: #fff;
+    font-family: dua;
+}
+
+@font-face {
+    font-family: header;
+    src: url(/font/Montserrat-Light.ttf);
+}
+
+@font-face {
+    font-family: dua;
+    src: url(/font/SF-Orson-Casual-Medium.ttf);
+}
+
+@font-face {
+    font-family: tiga;
+    src: url(/font/primer-print-bold.ttf);
+}
